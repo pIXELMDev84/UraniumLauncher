@@ -1,8 +1,8 @@
 {
-  "name": "helioslauncher",
+  "name": "uraniumlauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "productName": "Uranium Launcher",
+  "description": "Serveur PvpFaction",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
