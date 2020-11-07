@@ -3,11 +3,11 @@
   "version": "1.8.0",
   "productName": "Uranium Launcher",
   "description": "Serveur PvpFaction",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Pixel M",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/pIXELMDev84/UraniumLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/pIXELMDev84/UraniumLauncher/issues"
   },
   "private": true,
   "main": "index.js",
